@@ -1,0 +1,4 @@
+module PolymerGoogleStreetviewPano
+  class Engine < ::Rails::Engine
+  end
+end

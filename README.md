@@ -1,6 +1,6 @@
-# Polymer Google Map Web Component Gem
+# Polymer Google Streetview Pano Web Component Gem
 
-The Web component implements [Google Map interface](http://googlewebcomponents.github.io/google-map/components/google-map/).
+The Web component implements [Google Streetview Pano interface](http://googlewebcomponents.github.io/google-streetview-pano/components/google-streetview-pano/).
 
 
 
@@ -9,7 +9,7 @@ The Web component implements [Google Map interface](http://googlewebcomponents.g
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'polymer-google-map'
+gem 'polymer-google-streetview-pano'
 ```
 
 
@@ -20,19 +20,19 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install polymer-google-map
+    $ gem install polymer-google-streetview-pano
 
 ## Getting started
 
 ```ruby
 gem 'polymer-rails'
-gem 'polymer-google-map'
+gem 'polymer-google-streetview-pano'
 ```
 
 After runnign `bundle install` require needed paper elements into your `application.html` manifest file.
 
     //= require polymer/polymer
-    //= require google-map/google-map
+    //= require google-streetview-pano/google-streetview-pano
 
 
 ## Contributing
